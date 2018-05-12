@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33421'
     url: http://www.gutenberg.org/2009/agents/33421
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28570#Astronomy-of-To-dayA-Popular-Introduction-in-Non-Technical-Language
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2009-04-21'
 gutenberg_type: Text
