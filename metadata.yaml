@@ -1,0 +1,26 @@
+_repo: Astronomy-of-To-dayA-Popular-Introduction-in-Non-Technical-Language_28570
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28570-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Dolmage, Cecil Goodrich Julius
+    deathdate: 1908
+    gutenberg_agent_id: '33421'
+    url: http://www.gutenberg.org/2009/agents/33421
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2009-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcc 'QB'
+title: 'Astronomy of To-day: A Popular Introduction in Non-Technical Language'
+url: http://www.gutenberg.org/ebooks/28570
